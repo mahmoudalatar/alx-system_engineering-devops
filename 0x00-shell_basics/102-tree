@@ -1,2 +1,2 @@
-#!/bin/ba
-mkdir welcom/to/school
+#!/bin/bash
+mkdir /welcom/to/school
