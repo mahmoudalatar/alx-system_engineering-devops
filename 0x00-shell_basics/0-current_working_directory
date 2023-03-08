@@ -1,1 +1,3 @@
-# 0-current_working_directory
+#!/bin/bash
+filelink -f 0-current_working_directory
+
