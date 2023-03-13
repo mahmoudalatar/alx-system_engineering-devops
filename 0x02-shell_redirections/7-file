@@ -1,3 +1,2 @@
 #!/bin/bash
- name=$'\\*\\\\\'\"Best\ School\"\\\'\\\\*$\\?\\*\\*\\*\\*\\*:\)'
- touch $name | echo 'Best School' > $name
+touch \\\*\\\\\'\"Best\ School\"\\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*:\) | echo 'Best School' > \\\*\\\\\'\"Best\ School\"\\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*:\)
