@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | sort | head
+ls -l | sort | head | cut -d " " -f 10
